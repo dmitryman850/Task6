@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TedRss</string>
+    <string name="txt_all_videos">Все видео</string>
+    <string name="txt_light">Светлая тема</string>
+    <string name="txt_dark">Тёмная тема</string>
+    <string name="txt_information">Информация</string>
+</resources>
